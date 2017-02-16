@@ -1,8 +1,8 @@
 # hello-gradle-junit
 This was created using 
-    1. Visual-Studio Code
-    2. Gradle
-    3. Junit
+1. Visual-Studio Code
+2. Gradle
+3. Junit
 
 Prerequisites
 1. Java SDK 1.8.x and Jave JRE 1.8.x installed and added to PATH system variable
