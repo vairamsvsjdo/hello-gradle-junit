@@ -1,5 +1,5 @@
 # hello-gradle-junit
-This was created using
+This sample application was created using
 
 1. Visual-Studio Code
 2. Gradle
