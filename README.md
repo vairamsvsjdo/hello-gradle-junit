@@ -1,5 +1,6 @@
 # hello-gradle-junit
-This was created using 
+This was created using
+
 1. Visual-Studio Code
 2. Gradle
 3. Junit
